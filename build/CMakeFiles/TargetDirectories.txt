@@ -1,0 +1,3 @@
+/home/svery/prac/BooleanProposition/otherss/project/build/CMakeFiles/main.exe.dir
+/home/svery/prac/BooleanProposition/otherss/project/build/CMakeFiles/edit_cache.dir
+/home/svery/prac/BooleanProposition/otherss/project/build/CMakeFiles/rebuild_cache.dir

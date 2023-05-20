@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.exe.dir/main.cpp.o CMakeFiles/main.exe.dir/ast.cpp.o CMakeFiles/main.exe.dir/eval.cpp.o CMakeFiles/main.exe.dir/printer.cpp.o CMakeFiles/main.exe.dir/parser.cpp.o -o main.exe 
